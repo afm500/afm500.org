@@ -56,7 +56,7 @@ NOT USE THIS OPTION!  You must contact the Treasurer at
 <table>
 <tbody>
 <tr>
-<td><input name="on0" type="hidden" value="2018 AFM 500 dues payment options - $4 service fee added" />2018 AFM 500 dues payment options - $4 service fee added</td>
+<td><input name="on0" type="hidden" value="2018 AFM 500 Dues - $4 service fee added" />2018 AFM 500 Dues - $4 service fee added</td>
 </tr>
 <tr>
 <td><select name="os0">
