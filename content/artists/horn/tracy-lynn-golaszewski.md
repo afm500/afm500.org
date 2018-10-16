@@ -6,9 +6,6 @@ French Horn
 
 <!--more-->
 
-French horn
- 
-
 
 TRACYGOLASZEWSKI@GMAIL.COM
 
