@@ -6,13 +6,5 @@ Bassoon, Contrabassoon
 
 <!--more-->
 
-Bassoon, Contrabassoon
 
-
- 
-
-
-AMBERFERENZ@GMAIL.COM
-
-
-
+amberferenz@gmail.com
