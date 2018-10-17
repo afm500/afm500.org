@@ -2,10 +2,8 @@
 title = "Howard Rockett"
 +++
 
-Piano, Piano
+Piano
 
 <!--more-->
-
-Piano
 
 hrockett@howardrockettinc.com
