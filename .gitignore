@@ -3,3 +3,5 @@ public
 *.swp
 
 data.xml
+
+.DS_Store
