@@ -6,9 +6,6 @@ Drums, Percussion, Timpani
 
 <!--more-->
 
-Drums, percussion
- 
-
 
 SBDRUM@GMAIL.COM
 
