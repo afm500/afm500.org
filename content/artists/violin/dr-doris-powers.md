@@ -1,5 +1,5 @@
 +++
-title = "Dr. Doris Powers"
+title = "Doris Powers"
 +++
 
 Musicians, Viola, Violin

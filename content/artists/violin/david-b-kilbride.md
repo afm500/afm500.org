@@ -9,9 +9,6 @@ Fiddle, Violin
 Violin, Celtic fiddle
 
 
- 
-
-
 dbkilbride@yahoo.com
 
 
