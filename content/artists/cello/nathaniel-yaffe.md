@@ -6,9 +6,6 @@ Cello
 
 <!--more-->
 
-Contact Nathaniel:
+Contact Nathaniel: nbyaffe@gmail.com
 
-Email -  nbyaffe@gmail.com
-
-Website  -  nathanielyaffeproductions.com
-
+Website: nathanielyaffeproductions.com

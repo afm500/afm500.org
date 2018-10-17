@@ -6,10 +6,4 @@ Cello
 
 <!--more-->
 
-Cello
-
-
 mfoster96@hotmail.com
-
-
-
