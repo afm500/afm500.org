@@ -6,12 +6,7 @@ Guitar, Viola
 
 <!--more-->
 
-Viola, acoustic
-  guitar
-
-
- 
-
+Viola, acoustic guitar
 
 SANDYM158@AOL.COM
 
