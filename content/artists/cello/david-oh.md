@@ -6,6 +6,4 @@ Cello
 
 <!--more-->
 
-Cello
-
 DAVOHNC@GMAIL.COM

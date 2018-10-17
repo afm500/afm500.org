@@ -10,5 +10,3 @@ John can be found in recording studios and on stages throughout the Triangle and
 
 Phone# 919-949-8300
 john@johnsimonetti.com
-
-

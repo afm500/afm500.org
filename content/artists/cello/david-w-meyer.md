@@ -1,12 +1,11 @@
 +++
-title = "David W. Meyer"
+title = "David Meyer"
 +++
 
 Cello
 
 <!--more-->
 
-Cello
 Member: NC Symphony
-david.meyer.cello@gmail.com</p
 
+david.meyer.cello@gmail.com

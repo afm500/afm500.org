@@ -6,10 +6,4 @@ Cello
 
 <!--more-->
 
-Cello
-
-
 GARDNERPURPLE@GMAIL.COM
-
-
-
