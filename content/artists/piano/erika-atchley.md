@@ -6,9 +6,4 @@ Piano, Violin
 
 <!--more-->
 
-
-
 ERIVIOLIN@AOL.COM
-
-
-

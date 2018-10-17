@@ -2,10 +2,8 @@
 title = "Rick Motylinski"
 +++
 
-Drums, Percussion
+Drums, Percussion, Timpani
 
 <!--more-->
-
-Percussion, Timpani
 
 rickmotylinski@gmail.com
