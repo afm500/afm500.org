@@ -6,8 +6,6 @@ Guitar, Keyboard, Piano, Vocals
 
 <!--more-->
 
-garylouris@yaoho.com
-
-jayhawksofficial.com
+garylouris@yahoo.com
 
 al@highroadtouring.com
