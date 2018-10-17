@@ -1,12 +1,10 @@
-+++
+﻿+++
 title = "Erin Munnelly"
 +++
 
 Flute, Piccolo
 
 <!--more-->
-
-Flute, Piccolo
 
 To contact Erin, email to:  em.flutist@gmail.com
 

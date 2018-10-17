@@ -1,12 +1,10 @@
 +++
-title = "Charles McKinney Jr"
+title = "Rusty McKinney"
 +++
 
 Euphonium, Trombone
 
 <!--more-->
-
-Trombone, Euphonium
 
 (919) 655-4988
 
