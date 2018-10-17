@@ -2,10 +2,8 @@
 title = "Pam Nelson"
 +++
 
-Alto Flute, Flute
+Flute, Alto Flute
 
 <!--more-->
-
-Flute, Alto Flute
 
 PNELSON@DELTACOMM.COM

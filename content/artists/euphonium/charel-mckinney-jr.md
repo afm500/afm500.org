@@ -1,5 +1,5 @@
 +++
-title = "Charles McKinney Jr"
+title = "Rusty McKinney"
 +++
 
 Euphonium, Trombone
