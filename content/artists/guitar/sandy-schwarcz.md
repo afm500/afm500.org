@@ -2,15 +2,9 @@
 title = "Sandy Schwarcz"
 +++
 
-Guitar, Viola
+Viola, Guitar
 
 <!--more-->
-
-Viola, acoustic
-  guitar
-
-
- 
 
 
 SANDYM158@AOL.COM
