@@ -2,15 +2,9 @@
 title = "David B. Kilbride"
 +++
 
-Fiddle, Violin
-
-<!--more-->
-
 Violin, Celtic fiddle
 
-
- 
-
+<!--more-->
 
 dbkilbride@yahoo.com
 

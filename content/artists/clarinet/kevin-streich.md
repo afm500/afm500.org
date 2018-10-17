@@ -2,12 +2,9 @@
 title = "Kevin Streich"
 +++
 
-Bass Clarinet, Clarinet
+Clarinet, Bass Clarinet
 
 <!--more-->
-
-Clarinet, bass clarinet
-
 
 
 KVNSTREICH@GMAIL.COM
