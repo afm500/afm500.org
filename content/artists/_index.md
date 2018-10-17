@@ -43,8 +43,6 @@ menu = "main"
 
 [Saxophone](saxophone/)
 
-[String Bass](string_bass/)
-
 [Trombone](trombone/)
 
 [Trumpet](trumpet/)
