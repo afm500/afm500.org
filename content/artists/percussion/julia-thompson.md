@@ -2,7 +2,7 @@
 title = "Julia Thompson"
 +++
 
-Drums, Librarian, Melodic Percussion, Percussion, Timpani
+Drums, Librarian, Percussion, Timpani
 
 <!--more-->
 
